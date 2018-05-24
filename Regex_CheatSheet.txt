@@ -1,0 +1,49 @@
+https://codesnacker.com
+
+Made with love by the CodeSnacker
+_____________________________________________________________________________
+_____________________________________________________________________________
+
+Regex Cheat Sheet :>>
+
+
+
+. denotes any charater except new line
+
+
+
+\. denotes the character '.' 
+\\. is the same thing in JAVA
+
+
+
+\d matches any one digit from 0 to 9
+\\d (JAVA)
+
+
+
+\D matches anything character that is not a digit
+\\D (JAVA)
+
+
+\s matches any whitespace character [ \r\n\t\f ].
+\\S matches any non whitespace character
+
+
+\w matches any word character 
+\W matches any non word character
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

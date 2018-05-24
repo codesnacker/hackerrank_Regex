@@ -1,0 +1,30 @@
+https://codesnacker.com
+
+Please support my blog by subscribing to it and sharing it .
+
+Thanks :-)
+_____________________________________________________________________________
+_____________________________________________________________________________
+
+Regex #6 :Matching Start & End 
+
+Languages : JAVA 8 and Python 3
+
+Required Imports and other code  present in HackerRank.
+
+Java 8:
+
+public class Solution {    
+
+    public static void main(String[] args) {
+        
+        Regex_Test tester = new Regex_Test();
+        tester.checker("^\\d\\w\\w\\w\\w\\.$"); // Use \\ instead of using \ 
+    
+    }
+}
+
+Python 3:
+
+Regex_Pattern = r"^\d\w\w\w\w\.$"	# Do not delete 'r'.
+
